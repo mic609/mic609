@@ -23,25 +23,17 @@ I'm a passionate back-end developer with a focus on Java and Spring Boot, with a
 🚀 Known technologies:
 
 - Back-end: Java, Spring Boot, Spring Security, Hibernate, PostgreSQL, SQL, C#
-
 - Front-end: Angular, HTML, CSS, JavaScript
-
 - Game Development: Unity (C#)
-
 - DevOps & Cloud: Docker, Kubernetes, AWS (ECS, RDS, SQS, Cognito, CloudWatch), Terraform, Jenkins
-
 - Other: Git/GitHub, CI/CD, REST API, Microservices
 
 🔍 Research interests:
 
 - Backend development with Spring Boot
-
 - Microservices architecture & inter-service communication
-
 - CI/CD pipelines and deployment automation
-
 - Cloud infrastructure (AWS, Kubernetes)
-
 - Security in microservices
 
 📚 Goals for the future:
